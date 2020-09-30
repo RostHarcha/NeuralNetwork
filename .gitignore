@@ -355,3 +355,5 @@ MigrationBackup/
 
 
 .sln
+.vcxproj
+.vcxproj.filter
